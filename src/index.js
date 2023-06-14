@@ -1,2 +1,2 @@
 console.log('intex.js');
-console.log('version4');
+console.log('version5');
